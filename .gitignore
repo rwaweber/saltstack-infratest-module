@@ -1,3 +1,4 @@
 .kitchen
 .vagrant
-**/*.pyc
+*.pyc
+__pycache__
