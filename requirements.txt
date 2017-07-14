@@ -1,2 +1,2 @@
 testinfra
-codeclimate-test-reporter
+pytest

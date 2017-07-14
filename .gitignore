@@ -1,3 +1,5 @@
 .kitchen
 .vagrant
-**/*.pyc
+*.pyc
+.cache
+.coverage
